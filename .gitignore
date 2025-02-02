@@ -6,7 +6,9 @@ node_modules/
 /dist
 
 # Cache directories
-node_modules/.cache/
+node_modules/.cache
+
+node_modules/.cache/gh-pages/
 
 # Logs
 *.log
