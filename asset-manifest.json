@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dePartie/static/css/main.0d074122.css",
+    "main.js": "/react-dePartie/static/js/main.262ea640.js",
+    "static/js/488.65152870.chunk.js": "/react-dePartie/static/js/488.65152870.chunk.js",
+    "index.html": "/react-dePartie/index.html",
+    "main.0d074122.css.map": "/react-dePartie/static/css/main.0d074122.css.map",
+    "main.262ea640.js.map": "/react-dePartie/static/js/main.262ea640.js.map",
+    "488.65152870.chunk.js.map": "/react-dePartie/static/js/488.65152870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d074122.css",
+    "static/js/main.262ea640.js"
+  ]
+}
